@@ -7,12 +7,9 @@ This code quiz will help coding boot camp students gauge their progress via a ti
 ## Appearance
 <img width="1440" alt="Screen Shot 2022-01-10 at 9 16 41 AM" src="https://user-images.githubusercontent.com/87589967/148829612-8f225978-87fe-4c2e-b9c1-544f96f13168.png">
 
+## Live Link
 
-## Technology Used
-
-* CSS
-* HTML
-* JavaScript
+https://sfosr.github.io/Code-Quiz/
 
 ### Created By:
 
